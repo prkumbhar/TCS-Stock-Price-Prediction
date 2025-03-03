@@ -1,1 +1,1 @@
-# TCS-Stock-Price-Prediction
+# This project involves analyzing historical stock price data of TCS (Tata Consultancy Services) to develop predictive models. The primary goal is to forecast future stock prices using advanced data analysis techniques and machine learning algorithms.
